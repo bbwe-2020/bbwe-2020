@@ -1,10 +1,9 @@
 👋 Hi
 
-- 🌱 I’m currently learning ...
-
-Linux / Raspberry PI
-Python
-JavaScript / Web
+- 🌱 I’m currently learning
+    - Linux / Raspberry PI
+    - Python
+    - JavaScript / Web
 
 - ⚡ Fun fact: ...
 
