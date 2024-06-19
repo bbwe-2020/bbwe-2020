@@ -1,6 +1,11 @@
 👋 Hi 
 
-This is my Website at https://github.com/bbwe-2020/
+This is my Website:
+
+- https://bbwe-2020.github.io/
+- code: https://github.com/bbwe-2020/
+
+---
 
 - 🌱 I’m currently learning
     - Linux / Raspberry PI
