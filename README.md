@@ -11,7 +11,16 @@ This is my Website:
     - Linux / Raspberry PI
     - Python
     - JavaScript / Web
+- knock knock
+- who's there
+- police
+- police who
 
+  <details>
+    <summary>answer</summary>
+
+  police let me in it's cold out here
+  
 - ⚡ Fun fact: ...
 
 What year did the first astronauts land on the moon?
